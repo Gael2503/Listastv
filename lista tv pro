@@ -2,7 +2,10 @@
 #PLAYLIST: Contenido Multimedia 
 
 #EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="Canales",Multimedios Monterrey 
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
+
+#EXTINF:-1 tvg-id="canal2" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Canales",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNfDll1YBsLXiNt3SBZXxwRU3KaiX&sid=0KqdITEv8eLiv8cDDk7XKtuhF9LcAPpk&pid=XzjbKV85yc2gzPYFv0xNcRY6uFtb05mT&an=screen&at=web-app&av=v5.2.358&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=351x197&without_cookies=false&listenerid=&dnt=true
 
 
 #EXTM3U
