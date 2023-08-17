@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: Contenido Multimedia 
 
-#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="Canales",Canal 1
+#EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="Canales",Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
@@ -9,4 +9,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #PLAYLIST: Película 
 
 #EXTINF:0 tvg-id="pelicula1" tvg-name="Pelicula animada" tvg-logo="https://static.esplay.one/movie/cover/original/p9WwpYRfKz3LcGva19v1SXsln1h.webp" group-title="Películas",The seven deadly sins: El rencor de Edimburgo parte 2
-https://dl.dropboxusercontent.com/scl/fi/4f3qpczjzehhqey3funir/Hotel-Transilvania_Transforman%C3%ADa.mp4?rlkey=b0mk6l2jooepkw5imkom89wfy&dl=0
+https://dl.dropboxusercontent.com/scl/fi/4f3qpczjzehhqey3funir/Hotel-Transilvania_Transforman%C3%ADa.mp4?rlkey=b0mk6l2jooepkw5imkom89wfy&dl=0 
+
+#EXTINF:0 tvg-id ="Pelicula2" tvg-name="Pelicula de acción" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbkLdaqw-7wLnQVW6FXACcCGkPp_vipkxPZA&usqp=CAU" group-title="Películas",Babylon
+https://dl.dropboxusercontent.com/scl/fi/e4s43p0859snwsvgnu2gx/Babylon.mp4?rlkey=u3991tvrhu41ttttmobanktmc&dl=0
