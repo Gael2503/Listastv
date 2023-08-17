@@ -1,7 +1,12 @@
-#EXTM3U 
+#EXTM3U
+#PLAYLIST: Contenido Multimedia 
 
-#EXTINF:0, tvg-logo = "https://es.web.img3.acsta.net/pictures/21/06/18/13/22/0727455.jpg", MX:Hotel Transylvania
-https://dl.dropboxusercontent.com/scl/fi/4f3qpczjzehhqey3funir/Hotel-Transilvania_Transforman%C3%ADa.mp4?rlkey=b0mk6l2jooepkw5imkom89wfy&dl=0 
-
-#EXTINF:-1,Multimedios Monterrey 
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="Canales",Canal 1
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
+#EXTM3U
+#PLAYLIST: Película 
+
+#EXTINF:0 tvg-id="pelicula1" tvg-name="Pelicula animada" tvg-logo="https://static.esplay.one/movie/cover/original/p9WwpYRfKz3LcGva19v1SXsln1h.webp" group-title="Películas",The seven deadly sins: El rencor de Edimburgo parte 2
+https://dl.dropboxusercontent.com/scl/fi/4f3qpczjzehhqey3funir/Hotel-Transilvania_Transforman%C3%ADa.mp4?rlkey=b0mk6l2jooepkw5imkom89wfy&dl=0
