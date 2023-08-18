@@ -8,6 +8,10 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNfDll1YBsLXiNt3SBZXxwRU3KaiX&sid=0KqdITEv8eLiv8cDDk7XKtuhF9LcAPpk&pid=XzjbKV85yc2gzPYFv0xNcRY6uFtb05mT&an=screen&at=web-app&av=v5.2.358&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=351x197&without_cookies=false&listenerid=&dnt=true
 
 
+#EXTINF:-1 tvg-id="canal3" tvg-name="Mx" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSEYoB2MI3PC3igfzO6k-mFK1o0vabRr6l_y0eoUA=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Entretenimiento",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+
 #EXTM3U
 #PLAYLIST: Película 
 
