@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST: Contenido Multimedia 
 
-#EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="Canales",Multimedios Monterrey 
+#EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="México",Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
 
-#EXTINF:-1 tvg-id="canal2" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Canales",Azteca Uno
+#EXTINF:-1 tvg-id="canal2" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="México",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNfDll1YBsLXiNt3SBZXxwRU3KaiX&sid=0KqdITEv8eLiv8cDDk7XKtuhF9LcAPpk&pid=XzjbKV85yc2gzPYFv0xNcRY6uFtb05mT&an=screen&at=web-app&av=v5.2.358&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=351x197&without_cookies=false&listenerid=&dnt=true
 
 
@@ -12,7 +12,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNf
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-id="canal4" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXav-n-mGil4_xAXc_lyX7AxnhvozUoUp4w&usqp=CAU" group-title="Canales mx",Las estrellas
+#EXTINF:-1 tvg-id="canal4" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXav-n-mGil4_xAXc_lyX7AxnhvozUoUp4w&usqp=CAU" group-title="México",Las estrellas
 https://channel01dai-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?hdnea=st=1692319331~exp=1692319631~acl=*~id=2c5d14bf-8ef4-4193-bb4b-afd4605571a3~hmac=235cbe0de504064054431d3948def391a441c37183b5bb83b41c03ed0098c744&originpath=/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/b2a85e31-34e1-4a6f-b25d-24f84fe62ee0:DLS/master.m3u8
 
 
