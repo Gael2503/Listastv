@@ -18,16 +18,3 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?uid=xOuRNf
 
 #EXTINF:-1 tvg-id="canal5" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_bpvf_hgAAdX_1gY-YnYK7WzV2XSyT1JyA&usqp=CAU" group-title="Canales mx",Canal N+
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8?hdnea=exp=1692328600~acl=/*~hmac=236142a5be4543a10fc77b729e0bb6f8ac800e5005d08fc87aeaf16c6630b7c2
-
-
-#EXTM3U
-#PLAYLIST: Película 
-
-#EXTINF:0 tvg-id="pelicula1" tvg-name="Pelicula animada" tvg-logo="https://static.esplay.one/movie/cover/original/p9WwpYRfKz3LcGva19v1SXsln1h.webp" group-title="Películas",The seven deadly sins: El rencor de Edimburgo parte 2
-https://dl.dropboxusercontent.com/scl/fi/4f3qpczjzehhqey3funir/Hotel-Transilvania_Transforman%C3%ADa.mp4?rlkey=b0mk6l2jooepkw5imkom89wfy&dl=0 
-
-#EXTINF:0 tvg-id ="Pelicula2" tvg-name="Pelicula de acción" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbkLdaqw-7wLnQVW6FXACcCGkPp_vipkxPZA&usqp=CAU" group-title="Películas",Babylon
-https://dl.dropboxusercontent.com/scl/fi/e4s43p0859snwsvgnu2gx/Babylon.mp4?rlkey=u3991tvrhu41ttttmobanktmc&dl=0 
-
-#EXTINF:0 tvg-id ="Pelicula3" tvg-name="Pelicula de animación" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdo1ijC_PhDv2nN-_nk1bgxb3BTIFbnUxJg&usqp=CAU" group-title="Películas",Spider-Man: a través del Spider-Verso
-https://dl.dropboxusercontent.com/scl/fi/oqqeo1texj29rllqrh7o7/Spider-Man:A_trav%C3%A9s_del_Spider-Verso%F0%9F%94%B9Fireflix.mp4?dl=0&rlkey=ll9xlhnvfddfi9rnfphhxn192
