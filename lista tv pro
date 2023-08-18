@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST: Contenido Multimedia 
 
-#EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="Canales mx",Multimedios Monterrey 
+#EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="México",Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
 
-#EXTINF:-1 tvg-id="canal2" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Canales mx",Azteca Uno
+#EXTINF:-1 tvg-id="canal2" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="México",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNfDll1YBsLXiNt3SBZXxwRU3KaiX&sid=0KqdITEv8eLiv8cDDk7XKtuhF9LcAPpk&pid=XzjbKV85yc2gzPYFv0xNcRY6uFtb05mT&an=screen&at=web-app&av=v5.2.358&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=351x197&without_cookies=false&listenerid=&dnt=true
 
 
@@ -12,9 +12,12 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNf
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-id="canal4" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvwV72Wi-xTfMgpQfIElPaoeK8Nvz3PFKkw&usqp=CAU" group-title="Canales mx",Canal 7
+#EXTINF:-1 tvg-id="canal4" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvwV72Wi-xTfMgpQfIElPaoeK8Nvz3PFKkw&usqp=CAU" group-title="México",Canal 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?uid=xOuRNfDll1YBsLXiNt3SBZXxwRU3KaiX&sid=q6B051Rsmh69rWyYMllZJL7NVAq5WKm2&pid=vYovABwUlthQ5Vu6Iaskgr0ju81Ze5Fy&an=screen&at=web-app&av=v5.2.358&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=351x197&without_cookies=false&listenerid=&dnt=true
 
 
-#EXTINF:-1 tvg-id="canal5" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_bpvf_hgAAdX_1gY-YnYK7WzV2XSyT1JyA&usqp=CAU" group-title="Canales mx",Canal N+
+#EXTINF:-1 tvg-id="canal5" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_bpvf_hgAAdX_1gY-YnYK7WzV2XSyT1JyA&usqp=CAU" group-title="México",Canal N+
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8?hdnea=exp=1692328600~acl=/*~hmac=236142a5be4543a10fc77b729e0bb6f8ac800e5005d08fc87aeaf16c6630b7c2
+
+#EXTINF:-1 tvg-id="canal6" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-qj8rBVDddE-nFWxVU8EFTtdOAvhL-eKHw&usqp=CAU" group-title="Deportes",Canal TUDN
+https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=h36EtvEZ9QjtZZgSMGvR0w:sCMHXTlDvSaL4fC8kJgd9cIN36x1o7P5dIiKyuWUab3wA0ySLyBjTiwpIUm44DmDAqQyIo_1J8ToZ3iQVsqWvxI_rEhyLK_ECb9lf22LnlH8hlZNCPKkrpzbBIkMaaaNuCHHlx52Ar9AEtLjLFF7jrGH1m8Kb138nVfrp5DcL5hshiuBBTP3qWHsrVPvRcYk4K6BFUpPck3Gyp2ZAsJblry5lGhqNF9XMwbxoYg6lbnSK-G8RDC9JjWZYf2Hgo7gY7Icd2dEuNWB0Ic6FY24rq2-mHC0VzRgQmzLXj8N2uHmIq4mIVg1uoDUBLhfdfxhjSx5D3H07UxVKFh2uyGyOoFCrXIYhx1X5IHINTSRGusXOR_aRtBu2lLq-VnHeEuG0z_ou3i2l3uoMF0g98J8ajxVgkoaZqLpws8ptFU-SxvZ6Bym3j3rhEJlV6C6k6dGtVmt7TGbFfCPW3oL3jt0W33FqS-ykFEA4jVVHnK1u66UJa9ztQWlgnKLKmNp18rrxc3SDpKi5xzjLuV-zlzRwz0wP0LKr08WGDCvMcuroIcoVgkm7YUhfd3I3lCt1w2pFlMctbCmu8MF93w58kCczmTvodphR_olpxflV4vy6Q5HfUKZvNVTySawtVJofw-1hFqeejzRRGz-lGwCpSSMI-GflLVII1oKHHz0EuTbB9A&anvtrid=8c7f6ee72c2296dd22684be8c926c2aa&anvauth=tb=0~te=1692345016~sgn=f94e6921ec1c9b83bb9ede0be85399c24fd12e7fb4c0de6aac89c6f5d8e98b98&t=1692344926
