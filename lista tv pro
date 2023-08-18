@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST: Contenido Multimedia 
 
-#EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="México",Multimedios Monterrey 
+#EXTINF:-1 tvg-id="canal1" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgJcEoPdpTW__oHI67s5X1XtEq37kQpzxPQ&usqp=CAU" group-title="Canales",Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
 
-#EXTINF:-1 tvg-id="canal2" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="México",Azteca Uno
+#EXTINF:-1 tvg-id="canal2" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Canales",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNfDll1YBsLXiNt3SBZXxwRU3KaiX&sid=0KqdITEv8eLiv8cDDk7XKtuhF9LcAPpk&pid=XzjbKV85yc2gzPYFv0xNcRY6uFtb05mT&an=screen&at=web-app&av=v5.2.358&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=351x197&without_cookies=false&listenerid=&dnt=true
 
 
@@ -12,9 +12,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=xOuRNf
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-id="canal4" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXav-n-mGil4_xAXc_lyX7AxnhvozUoUp4w&usqp=CAU" group-title="México",Las estrellas
-https://channel01dai-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?hdnea=st=1692323017~exp=1692323317~acl=*~id=e754f48a-581d-400c-ba30-f19f4e713333~hmac=2f3979962116e272939f265e14f5bfc64c22f41b76d06c4000072f8e6ef56d54&originpath=/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/b873308c-39b7-4d92-a368-59ce6ba41969:CHS/master.m3u8
-
+#EXTINF:-1 tvg-id="canal4" tvg-name="Mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScFehhzy0OWXsW58YgWaDXbbzTR5x0PHrNHw&usqp=CAU" group-title="Canales mx",Canal 5
+https://live.telelatinohd.com:8080/MTg3LjE2MS4xNDAuNzM=/204_154.ts
 
 
 
